@@ -4,7 +4,7 @@ class Calculator:
 
     def add(self, num):
         self.value += num
-        return self
+        return self #returning self allows chaining
     
     def subtract(self, num):
         self.value -= num
