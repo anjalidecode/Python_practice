@@ -11,3 +11,5 @@ list2[0][0] = 99 # change nested element
 print("\nAfter changes:")
 print("list1:", list1) #list1 also changes
 print("list2:", list2)
+
+#A shallow copy creates a new object, but references the elements of the original object.
