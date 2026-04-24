@@ -1,0 +1,8 @@
+This is a sample text file.
+It contains plain text, without any special formatting like bolding, italics, or different font sizes.
+Each line represents a sequence of characters, separated by a newline character.
+Text files are commonly used for:
+- Storing raw data
+- Writing code or scripts
+- Creating log files
+- Simple note-taking

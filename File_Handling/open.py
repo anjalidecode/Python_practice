@@ -1,3 +1,1 @@
-file = open("/home/vinay/Documents/Code/python_practice/File_Handling/demo.txt", "r")
-#file.write("Hello, this is my first file!")
-
+file = open("/home/vinay/Documents/Code/python_practice/File_Handling/example.txt", "w")

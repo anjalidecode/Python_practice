@@ -1,5 +1,6 @@
 # Opening the file in read mode ('r')
-with open("demo.txt", "r") as file:
+with open("/home/vinay/Documents/Code/python_practice/File_Handling/example.txt", "r") as file:
+
     # Reading the entire file content
     content = file.read()
     print("Entire file content:")
