@@ -8,11 +8,11 @@ class Customer:
         self.age = age
         self.__wallet_balance = wallet_balance
 
-    def set_wallet_balance(self, amount):
+    def set_wallet_balance(self, amount): #mutator 
         if amount < 1000 and amount > 0:
             self.__wallet_balance = amount
 
-    def get_wallet_balance(self):
+    def get_wallet_balance(self): #accessor
         return self.__wallet_balance
 
 c1=Customer(100, "Gopal", 24, 1000)
