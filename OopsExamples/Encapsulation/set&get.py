@@ -1,4 +1,5 @@
-#The methods meant to access private variable values are called getter methods.
+# The methods which are meant to set a value to a private variable are called setter methods
+# The methods meant to access private variable values are called getter methods.
 
 class Customer:
     def __init__(self, id, name, age, wallet_balance):
