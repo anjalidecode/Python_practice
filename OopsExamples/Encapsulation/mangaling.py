@@ -1,4 +1,4 @@
-#double underscore in front of the attribute name, python will internally change its name to _Classname__attribute.
+# adding a __ changes the name of the attribute to _Classname__attribute
 
 class Customer:
     def __init__(self, cust_id, name, age, wallet_balance):
